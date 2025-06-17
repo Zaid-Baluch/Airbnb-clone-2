@@ -89,3 +89,21 @@ main {
   color: rgb(149, 145, 145);
   font-size: larger;
 }
+
+/* footer started */
+
+#footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(243, 244, 244);
+  border: 1px solid rgb(195, 193, 193);
+}
+.footerinfo {
+  color: rgb(149, 145, 145);
+}
+#restruction {
+  text-align: center;
+}
+#red {
+  color: red;
+}
