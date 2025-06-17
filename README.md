@@ -37,7 +37,7 @@ AirBnB-Clone/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/airbnb-clone.git
+git clone https://zaid-baluch.github.io/Airbnb-clone-2/
 
 2. Open the index.html file in your browser.
 3. That’s it!
@@ -54,7 +54,7 @@ This project was created by *Zaid Baloch* as a basic front-end practice project 
 
 If you want to connect:
 
-- Email: your-email@example.com  
-- GitHub: [your-username](https://github.com/your-username)
+- Email: zaidbeluch@gmail.com  
+- GitHub: (https://github.com/Zaid-Baluch)
 
 ---
