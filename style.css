@@ -93,35 +93,4 @@ main {
 }
 
 @media screen and (max-width: 768px) {
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: white;
-    font-size: medium;
-    position: sticky;
-    top: 0;
-  }
-  .logo {
-    margin-left: 10px;
-    visibility: ;
-  }
-  .container {
-    display: flex;
-  }
-  .container .home:hover {
-    text-decoration: underline;
-  }
-  .home {
-    display: flex;
-    align-items: center;
-  }
-  .btns {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  #host {
-    visibility: hidden;
-  }
 }
