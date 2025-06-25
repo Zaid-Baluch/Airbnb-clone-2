@@ -14,6 +14,9 @@ header {
   position: sticky;
   top: 0;
 }
+.small-logo {
+  display: none;
+}
 .logo {
   margin-left: 10px;
 }
@@ -92,5 +95,23 @@ main {
   color: red;
 }
 
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
+  header {
+    font-size: small;
+    padding: 10px;
+  }
+
+  .logo {
+    display: none;
+  }
+  .small-logo {
+    display: inline;
+    display: flex;
+  }
+  #host {
+    display: none;
+  }
+  .srch {
+    font-size: small;
+  }
 }
